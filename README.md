@@ -1,4 +1,4 @@
-![header]<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hana%20Roh&animation=fadeIn&fontColor=faf0ff&fontSize=60" />)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hana%20Roh&animation=fadeIn&fontColor=faf0ff&fontSize=60" />
 
 ---
 
@@ -14,7 +14,7 @@
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 * **Framework / Library:**
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white)
+  ![Spring Boot](<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">)
   ![Spring Data JPA](<img src="https://img.shields.io/badge/JPA-004D40?style=for-the-badge&logo=jpa&logoColor=white"/>)
   ![MyBatis](<img src="https://img.shields.io/badge/MyBatis-1F1F1F?style=for-the-badge&logo=mybatis&logoColor=white"/>)
   ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
