@@ -14,16 +14,15 @@
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 * **Framework / Library:**
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![Spring Boot](<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">)
-  ![Spring Data JPA](<img src="https://img.shields.io/badge/JPA-004D40?style=for-the-badge&logo=jpa&logoColor=white"/>)
-  ![MyBatis](<img src="https://img.shields.io/badge/MyBatis-1F1F1F?style=for-the-badge&logo=mybatis&logoColor=white"/>)
+  ![Spring Boot](<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">)
   ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
   ![NestJS](https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  * JPA, MyBatis
 
 ### Database & DevOps
 * **Database:**
@@ -91,9 +90,9 @@
 * **Email:** hana4979@gmail.com
 * **GitHub:** [@hana4979](https://github.com/hana4979)
 
---
+---
 
-[skuring-repo]: [https://github.com/orgs/team-skhuring/repositories]
-[dive-repo]: [https://github.com/hana4979/project-dive-musicstreaming.git]
-[getsetgo-repo]: [https://github.com/Team-Travelmate-himedia/Project_Team_Travelmate.git]
+[skuring-repo]: https://github.com/orgs/team-skhuring/repositories
+[dive-repo]: https://github.com/hana4979/project-dive-musicstreaming.git
+[getsetgo-repo]: https://github.com/Team-Travelmate-himedia/Project_Team_Travelmate.git
 
