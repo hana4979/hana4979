@@ -51,7 +51,7 @@
 * **기술 스택:** Node.js(NestJS/Express), .NET(Platform), TypeScript, Python, MySQL, Flyway, React, shadcn/ui, AWS(ECS, ECR, Lambda, S3, CloudFront, CloudWatch, Firehose, Glue, Athena, SSM), Docker, GitHub Actions, Postman, Swagger
 * **주요 성과 및 업무:**
   * **챔피언십 이벤트 백엔드 구축:** Flyway DB 스키마 관리, API 9종 설계·개발 후 Docker 컨테이너로 ECS 배포, AWS Lambda 시즌 승점 자동 계산 구현
-  * **쿼리 성능 최적화:** N+1 문제 발생 쿼리(2,000여 건)를 Bulk Upsert 및 인덱스 최적화로 2건으로 재설계하여 부하 약 92~94% 감소, 처리 속도 12~16배 개선
+  * **쿼리 성능 최적화:** N+1 문제 발생 쿼리(2,000여 건)를 Bulk Upsert 및 인덱스 최적화로 2건으로 재설계하여 부하 약 92\~94% 감소, 처리 속도 12\~16배 개선
   * **디자인 패턴 적용:** 플랫폼별 분기 로직을 GoF Template Method 패턴으로 리팩토링하여 OCP 만족, 신규 플랫폼은 자식 클래스 1개 추가만으로 확장
   * **리더보드·시즌 자동화:** Steam Web API 연동(리더보드 생성·조회·등록), Meta와 넘버링·보상 로직 정합성 점검, NestJS Cron으로 월간 시즌 갱신·리더보드 생성·백업 자동화
   * **스케줄러 장애 대응:** Meta 서버 오류로 스케줄러가 실패하는 상황에 대비해 수동 실행 API 3종(리더보드 생성/시즌 갱신/이전 시즌 백업) 개발·배포, Postman Collection으로 팀 공유
